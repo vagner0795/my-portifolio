@@ -1,17 +1,24 @@
-# Balle Bot
+# Portifolio
 
 
 
-<img src="./img/resultado.png" alt="logo-Balle">
+<img src="./img/result/home.png" alt="logo-portifolio">
+<img src="./img/result/about.png" alt="logo-portifolio">
+<img src="./img/result/projects.png" alt="logo-portifolio">
+<img src="./img/result/contacts.png" alt="logo-portifolio">
 
-> Resultado do projeto Balle Bot.
+
+
+
+> Resultado do portifolio.
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto trata-se de um mini site com pagina inicial, sobre, projetos e contatos. o projeto ja está no ar e foram usados:
 
 - [x] Criação do HTML
 - [x] Criação do CSS
+- [x] Criação do JAVASCRIPT
 - [x] Responsividade
 
 
@@ -23,7 +30,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./img/vagner.jpg" width="100px;" alt="Foto do Vagner"/><br>
+        <img src="./img/result/vagner.jpg" width="100px;" alt="Foto do Vagner"/><br>
         <sub>
           <b>Vagner Santos</b>
         </sub>
